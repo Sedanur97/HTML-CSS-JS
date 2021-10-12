@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>This is my website LAB1</title>
+<meta charset="UTF-8"/>
+<meta name = "keywords" content= "java, Phyton, javaScript">
+<meta name = "description" content = "First Assigment">
+<meta name = "author" content ="Sedanur Sevilmişdal">
+</head>
+
+
+<body style = "background-color: aqua">
+<!-- <h1> comment H1 <h1> -->
+
+<h1 style ="color: red">TIN FIRST ASSIGMENT</h1>
+<p style ="front-size: 30px;">
+<pre>
+Create a HTML page that meets the following requirements:
+
+<mark>1. </mark>Standard page skeleton (html, head, body etc.)
+
+<mark>2. </mark> At least one header and several paragraphs of text utilizing various formatting tags
+
+<mark>3. </mark>A numbered list with an embedded unordered list
+
+<mark>4. </mark> 4x5 table containing random data, with row of header cells
+
+<mark>5. </mark>2x2 table, with upper left cell containing an image, upper right - text, bottom row should contain a single cell with 2 column width, also containing text
+</pre>
+</p>
+<ul>
+                <li>Monday</li>
+                <li>Tuesday</li>
+                <li>Wednesday</li>
+                <li>Thursday</li>
+            </ul>
+            <table border="1" style="width:100%">
+            <tr>
+                <th>Class Name</th>
+                <th>Summary of Class</th>
+                <th>Mark of the Class</th>
+                <th>Needed Book</th>
+                <th>Comments</th>
+            </tr>
+            <tr>
+                <td>BYT</td>
+                <td>Business plan is done so far</td>
+                <td>5/5</td>
+                <td>No book needed</td>
+                <td>Go on</td>
+            </tr>
+            <tr>
+                <td>GRK</td>
+                <td>Graphical things are nice</td>
+                <td>5/5</td>
+                <td>Illustration of Tech</td>
+                <td>Nice</td>
+            </tr>
+            <tr>
+                <td>ZPR</td>
+                <td>Business plan is done so far</td>
+                <td>5/5</td>
+                <td>No book needed</td>
+                <td>Go on</td>
+            </tr>
+            <tr>
+                <td>TIN</td>
+                <td>Business plan is done so far</td>
+                <td>5/5</td>
+                <td>No book needed</td>
+                <td>Go on</td>
+            </tr>
+            </table>
+
+            <table style="width:100%" border="2">
+                <tr>
+                <th>UNIVERSTIY</th>
+                <th><img src="https://www.cumulusassociation.org/wp-content/uploads/2018/01/pja.png" width="300" height="200"></th>
+    <tr>
+           <TD >Name</TD>   
+           <th>Class</th></tr>
+
+
+            </table>
+</body>
+</html>
+
+
