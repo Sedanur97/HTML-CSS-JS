@@ -1,0 +1,41 @@
+body {
+   
+}
+
+.container {
+    min-height: 100vh;
+    margin-left: 20%;
+    margin-right: 20%;
+    background: lavender;
+    padding: 20px 5% 20px 5%;
+}
+.banner {
+    
+    height: 150px;
+    width: 100%;
+    border: solid gold 4px;
+}
+
+.banner-image {
+    height: 100%;
+    max-width: 100%;
+}
+
+.header {
+    margin-left: 3px;
+    margin-right: 3px;
+    font-size: 200%;
+    border-bottom:3px solid red;
+}
+
+.article {
+    margin-left: 10px;
+    margin-right: 10px;
+    border: solid black;
+    padding: 20px;
+    background: yellow;
+}
+
+a:hover {
+    color: red;
+}
