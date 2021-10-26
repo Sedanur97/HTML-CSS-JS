@@ -32,7 +32,11 @@ Assignment C
 
 Create a HTML page and CSS stylesheet showing, how the float and clear properties can be used to create double column text layout. The HTML page should contain several paragraphs of text and several images, text should wrap around the images.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 TIN LAB3
+
+
 Internet Technologies – Lab #3: HTML / XHTML + CSS
 
 Assignment A
