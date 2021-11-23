@@ -1,0 +1,19 @@
+{
+  "name": "sedanur-sevilmisdal",
+  "version": "1.0.0",
+  "description": "this is a tin lab",
+  "main": "7a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seda" : " My number is s19020",
+    "start " : "node 7a.js"
+  },
+  "keywords": [
+    "tin",
+    "lab",
+    "7",
+    "json"
+  ],
+  "author": "Sedanur Sevilmisdal",
+  "license": "ISC"
+}
