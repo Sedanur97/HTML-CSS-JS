@@ -16,7 +16,7 @@
 
 
 ### you can see them on code 
-#### but i change the main name as a server.js later instead of index.js
+#### but i changed the main name as a server.js later instead of index.js
 
 <img width="419" alt="Screenshot 2021-11-30 at 19 29 23" src="https://user-images.githubusercontent.com/80327814/144142583-8c573a9b-8d37-4620-9b0b-94b72d6d7796.png">
 
