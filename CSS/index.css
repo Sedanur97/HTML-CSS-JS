@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+    background-image: url('https://www.pomaturze.pl/pliki/galeria/10633377_10152383556901517_957589154108355222_o.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    font-family: "Gothic";
+
+}
+h2 {
+    display: inline-block;
+    width: 300px;
+    margin: 0px 0;
+    font-size: 50px;
+}
+
+
+input[type="submit"] {
+  padding: 10px 10px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 60px;
+  background:red;
+  color: #242831;
+  font-size: 30px;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+
+
+input[type="number"]:focus,
+input[type="text"] :focus,
+textarea:focus {
+  border-bottom: 2px solid #ddd;
+  transition: 0.2s ease;
+ 
+}
+
+input[type="number"],
+input[type="text"],
+textarea:focus {
+font-size: 30px;
+width: 100%;
+line-height: 40px;
+    
+}
+
+label {
+    
+    width: 100px;
+    font-size: 30px;
+    color: black;
+  }
+.container{
+    display: inline-block;
+    padding: 30px;
+    margin: 10px;
+    
+}
+
+  
